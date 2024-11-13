@@ -1,5 +1,5 @@
 # 💫 SOBRE MIM:
-Olá, me chamo Renan Alves e sou uma pessoa apaixonada no mundo da tecnologia.<br><br>Dês de pequeno, sempre fui uma pessoa fascinada em tecnologias e em tudo que ela<br>pode oferecer, e hoje em dia, não é diferente, tanto é que sou um estudante da área<br>de programação.<br><br>Hoje eu estudo Análise e Desenvolvimento de sistema para me aprofundar mais na área.<br>Sei que, estou iniciando na área, mas todo mundo precisa de uma oportunidade para<br>mostrar o seu potencial e eu espero que você possa me dar essa oportunidae.<br><br>Vamos trabalhar juntos !!!
+Olá, me chamo Renan Alves e sou uma pessoa apaixonada no mundo da tecnologia.<br><br>Desde pequeno, sempre fui uma pessoa fascinada em tecnologias e em tudo que ela<br>pode oferecer, e hoje em dia, não é diferente, tanto é que sou um estudante da área<br>de programação.<br><br>Hoje eu estudo Análise e Desenvolvimento de sistema para me aprofundar mais na área.<br>Sei que, estou iniciando na área, mas todo mundo precisa de uma oportunidade para<br>mostrar o seu potencial e eu espero que você possa me dar essa oportunidae.<br><br>Vamos trabalhar juntos !!!
 
 
 ## 🌐 Linkedin:
