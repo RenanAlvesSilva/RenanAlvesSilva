@@ -4,7 +4,9 @@
 
 ## 🚀 Sobre mim
 Olá, me chamo Renan Alves e sou formado em Análise e Desenvolvimento de Sistemas com foco em back-end.
-Atualmente estou á procura da minha primeira oportunidade na área com intuíto de obter mais experiências, para que eu possa, evoluir mais na área.
+Atualmente estou á procura da minha primeira oportunidade na área com intuíto de obter mais experiências, para que eu possa evoluir mais na área.
+Atualmente, tenho 2 projetos que desenvolvi sozinho para ajudar a empresa da qual trabalho, que segue o ramo de Estacionamentos, ambos projetos estão bem interessantes.
+
 
 Como mencionado, meu foco é no back-end, porém me arrisco um pouco no front-end.
 
