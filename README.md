@@ -1,21 +1,34 @@
-# 💫 SOBRE MIM:
-Olá, me chamo Renan Alves e sou uma pessoa apaixonada no mundo da tecnologia.<br><br>Desde pequeno, sempre fui uma pessoa fascinada em tecnologias e em tudo que ela<br>pode oferecer, e hoje em dia, não é diferente, tanto é que sou um estudante da área<br>de programação.<br><br>Hoje eu estudo Análise e Desenvolvimento de sistema para me aprofundar mais na área.<br>Sei que, estou iniciando na área, mas todo mundo precisa de uma oportunidade para<br>mostrar o seu potencial e eu espero que você possa me dar essa oportunidae.<br><br>Vamos trabalhar juntos !!!
+
+# Olá, eu sou Renan Alves! 👋
 
 
-## 🌐 Linkedin:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/renan-alves-silva) 
+## 🚀 Sobre mim
+Olá, me chamo Renan Alves e sou formado em Análise e Desenvolvimento de Sistemas com foco em back-end.
+Atualmente estou á procura da minha primeira oportunidade na área com intuíto de obter mais experiências, para que eu possa, evoluir mais na área.
 
-# 💻 Linguagens:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+Como mencionado, meu foco é no back-end, porém me arrisco um pouco no front-end.
+
+Meu Portfólio: [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](**)
+Meu LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/renan-alves-silva)
+
+
+## 🛠 Habilidades
+**Front-end:** Javascript Vanilla, Jquery, Bootstrap, HTMX , HTML , CSS, Axios.
+
+**Back-end:** Python, Django, Django RestFramework.
+
+**Banco de Dados / Deploy:** Railway, Aws, MySQL, PostgresSQL.
+
+**Versionamento:** GIT, GITHUB
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RenanAlvesSilva&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RenanAlvesSilva&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAlvesSilva&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Lições !
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=RenanAlvesSilva&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
