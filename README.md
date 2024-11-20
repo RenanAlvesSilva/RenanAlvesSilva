@@ -8,7 +8,7 @@ Atualmente estou á procura da minha primeira oportunidade na área com intuíto
 
 Como mencionado, meu foco é no back-end, porém me arrisco um pouco no front-end.
 
-Meu Portfólio: [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](**) <br>
+Meu Portfólio: [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](**) <br> <br> <br>
 Meu LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/renan-alves-silva)
 
 
