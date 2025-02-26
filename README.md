@@ -15,7 +15,7 @@ Meu LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?l
 
 
 ## 🛠 Habilidades
-**Front-end:** Javascript Vanilla, Jquery, Bootstrap, HTMX , HTML , CSS, Axios.
+**Front-end:** Javascript Vanilla, Vue ,  Jquery, Bootstrap, HTMX , HTML , CSS, Axios.
 
 **Back-end:** Python, Django, Django RestFramework.
 
