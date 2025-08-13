@@ -3,9 +3,11 @@
 
 
 ## 🚀 Sobre mim
-Olá, me chamo Renan Alves e sou formado em Análise e Desenvolvimento de Sistemas com foco em back-end.
-Atualmente estou á procura da minha primeira oportunidade na área com intuíto de obter mais experiências, para que eu possa evoluir mais na área.
-Atualmente, tenho 2 projetos que desenvolvi sozinho para ajudar a empresa da qual trabalho, que segue o ramo de Estacionamentos, ambos projetos estão bem interessantes.
+Desenvolvedor Fullstack em formação com sólida base em Django REST Framework, ReactJS e React Native. Atuo no suporte e desenvolvimento de APIs REST, construção de interfaces responsivas e integração entre sistemas. Possuo experiência prática com Docker, AWS (S3), versionamento com Git e automações com Python, além de vivência em times ágeis.
+
+Minha trajetória combina conhecimento técnico com atuação em ambientes de produção, desde o monitoramento e suporte N1/N2 até o desenvolvimento de soluções escaláveis.
+
+O que me diferencia é a capacidade de entregar soluções completas, do backend ao frontend, com foco em performance, estabilidade e resultado. Sou comprometido, tenho boa comunicação técnica e estou preparado para somar em projetos desafiadores desde o primeiro dia.
 
 
 Como mencionado, meu foco é no back-end, porém me arrisco um pouco no front-end.
