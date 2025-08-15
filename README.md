@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a Fullstack Developer in training, with a solid foundation in Django REST Framework, ReactJS, and React Native. I work on supporting and developing REST APIs, building responsive interfaces, and integrating systems. I have hands-on experience with Docker, AWS (S3), Git version control, and Python automation, along with practical exposure to agile teams.
+I'm a Fullstack Developer, with a solid foundation in Django REST Framework, ReactJS, and React Native. I work on supporting and developing REST APIs, building responsive interfaces, and integrating systems. I have hands-on experience with Docker, AWS (S3), Git version control, and Python automation, along with practical exposure to agile teams.
 
 My journey combines technical knowledge with real-world experience in production environments—from monitoring and Level 1/2 support to developing scalable solutions.
 
