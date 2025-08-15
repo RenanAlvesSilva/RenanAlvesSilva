@@ -12,8 +12,8 @@ What sets me apart is my ability to deliver end-to-end solutions, from backend t
 
 
 
-Meu Portfólio: [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://renanalves.up.railway.app/) <br> <br> <br>
-Meu LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/renan-alves-silva)
+My Portfólio: [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://renanalves.up.railway.app/) <br> <br> <br>
+My LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/renan-alves-silva)
 
 
 ## 🛠 Habilidades
