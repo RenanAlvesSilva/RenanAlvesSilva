@@ -16,7 +16,7 @@ My Portfólio: [![Portfólio](https://img.shields.io/badge/website-000000?style=
 My LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/renan-alves-silva)
 
 
-## 🛠 Habilidades
+## 🛠 Skills
 **Front-end:** Javascript Vanilla, ReactJS,  Jquery, Bootstrap, Tailwind ,HTMX , HTML , CSS, Axios.
 
 **Back-end:** Python, Django, Django RestFramework, Docker, RabbitMQ, Celery.
