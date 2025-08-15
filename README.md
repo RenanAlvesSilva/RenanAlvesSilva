@@ -1,16 +1,16 @@
 
-# Olá, eu sou Renan Alves! 👋
+# Hello, I'm Renan Alves! 👋
 
 
-## 🚀 Sobre mim
-Desenvolvedor Fullstack em formação com sólida base em Django REST Framework, ReactJS e React Native. Atuo no suporte e desenvolvimento de APIs REST, construção de interfaces responsivas e integração entre sistemas. Possuo experiência prática com Docker, AWS (S3), versionamento com Git e automações com Python, além de vivência em times ágeis.
+## 🚀 About Me
 
-Minha trajetória combina conhecimento técnico com atuação em ambientes de produção, desde o monitoramento e suporte N1/N2 até o desenvolvimento de soluções escaláveis.
+I'm a Fullstack Developer in training, with a solid foundation in Django REST Framework, ReactJS, and React Native. I work on supporting and developing REST APIs, building responsive interfaces, and integrating systems. I have hands-on experience with Docker, AWS (S3), Git version control, and Python automation, along with practical exposure to agile teams.
 
-O que me diferencia é a capacidade de entregar soluções completas, do backend ao frontend, com foco em performance, estabilidade e resultado. Sou comprometido, tenho boa comunicação técnica e estou preparado para somar em projetos desafiadores desde o primeiro dia.
+My journey combines technical knowledge with real-world experience in production environments—from monitoring and Level 1/2 support to developing scalable solutions.
+
+What sets me apart is my ability to deliver end-to-end solutions, from backend to frontend, with a focus on performance, stability, and results. I'm committed, technically articulate, and ready to contribute to challenging projects from day one.
 
 
-Como mencionado, meu foco é no back-end, porém me arrisco um pouco no front-end.
 
 Meu Portfólio: [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://renanalves.up.railway.app/) <br> <br> <br>
 Meu LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/renan-alves-silva)
