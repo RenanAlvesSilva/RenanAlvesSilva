@@ -9,11 +9,11 @@
 <h3 align=center>Profissional com experiência em Suporte Técnico, atuando na resolução de problemas e no atendimento eficiente ao cliente. Em transição para a área de Desenvolvimento e Dados, com base sólida em redes, sistemas operacionais, SQL e linguagens como Python e JavaScript. Busco oportunidades em Suporte Técnico ou Desenvolvimento Fullstack/Dados, onde possa aplicar minhas habilidades, evoluir tecnicamente e contribuir para a melhoria contínua dos processos e da operação.</h3>
 
 
-
+<br> <br>
 
 My Portfólio: [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://renanalves.up.railway.app/) <br> <br> <br>
 My LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/renan-alves-silva)
-
+<br> <br>
 <div align="center">
    <img width="50" hight="50" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/> 
   <h1 align="center">Skills</h1>
