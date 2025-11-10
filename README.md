@@ -22,7 +22,7 @@ My LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?lo
 <h4 align="center">Backend: Python, Django, Django RestFramework, FastAPI, Docker, RabbitMQ, Celery, Railway, Aws.</h4>
 <h4 align="center">Banco de Dados: MySQL, PostgreSQL, SQLite</h4>
 <h4 align="center">Versionamento: GIT, GITHUB</h4>
-
+<br> <br> <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -31,6 +31,7 @@ My LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?lo
 
 <div align="center">
 <h1>Status Github.</h1>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=RenanAlvesSilva&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RenanAlvesSilva&theme=radical&hide_border=false)<br/>
