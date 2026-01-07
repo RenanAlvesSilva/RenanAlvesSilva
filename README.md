@@ -7,8 +7,13 @@
 <h1 align="center"> Sobre mim </h1>
 
 <h3 align=center>Profissional com experiência em Suporte Técnico, atuando na resolução de problemas e no atendimento eficiente ao cliente. Em transição para a área de Desenvolvimento e Dados, com base sólida em redes, sistemas operacionais, SQL e linguagens como Python e JavaScript. Busco oportunidades em Suporte Técnico ou Desenvolvimento Fullstack/Dados, onde possa aplicar minhas habilidades, evoluir tecnicamente e contribuir para a melhoria contínua dos processos e da operação.</h3>
-
-
+<br>
+<div align="center">
+ <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/15211520-22d9-415d-9041-303a3d3b68f9" />
+ <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/09a168a3-929f-436c-ac00-3a300e39db39" />
+ <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/4a6d2e9d-9ed0-4d15-9371-df7412719d49" />
+ <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/996cf870-1bad-4484-98e8-a5ef2bfde3bf" />
+</div>
 <br> <br>
 
 My Portfólio: [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://renanalves.up.railway.app/) <br> <br> <br>
